@@ -74,6 +74,4 @@ GameServer/DataServer/ConnectServer :: Release::x64 :: Visual Studio 2015 v140
 Video Guide: https://www.youtube.com/watch?v=N-iwWaNsmKk
 [![Click](https://img.youtube.com/vi/N-iwWaNsmKk/0.jpg)](https://www.youtube.com/watch?v=N-iwWaNsmKk)
 
- 
-#### iDev.Games - MuOnline S9EP2 IGCN9.5 - TRONG.WIN - Dao Van Trong  
-##################################################################################  
+
